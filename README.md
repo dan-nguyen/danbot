@@ -13,7 +13,7 @@ A Discord bot that uses [Ollama](https://ollama.com) to run local LLMs. Responds
 1. **Clone the repo and create a virtual environment:**
 
    ```bash
-   git clone https://github.com/your-username/danbot.git
+   git clone https://github.com/dan-nguyen/danbot.git
    cd danbot
    python -m venv .venv
    source .venv/bin/activate  # Windows: .venv\Scripts\activate
